@@ -1,8 +1,8 @@
-# Wazuh-Lab
-Wazuh Detection Lab – Active Directory Environment
+### Wazuh-Lab
+### Wazuh Detection Lab – Active Directory Environment
 Practical SIEM lab built using Wazuh to simulate real-world SOC monitoring in an Active Directory environment.
 
-Why I Built This Lab
+### Why I Built This Lab
 After studying security monitoring and detection engineering, I wanted to apply these concepts in a realistic environment instead of only theoretical learning.
 
 ### Wazuh Detection Lab – Active Directory Environment
